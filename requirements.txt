@@ -1,0 +1,4 @@
+opencv-python == 4.11.0.86
+ultralytics == 8.3.63
+ultralytics-thop == 2.0.14
+icrawler == 0.6.9
